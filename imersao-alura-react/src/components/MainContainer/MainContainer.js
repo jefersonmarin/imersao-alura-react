@@ -1,7 +1,7 @@
 import React from "react";
 import './MainContainer.css';
 import Header from "./Header/Header";
-import PlaylistContainer from "./Playlist/PlaylistContainer";
+import PlaylistContainer from "./PlaylistContainer/PlaylistContainer";
 
 const MainContainer = () => {
     return (
